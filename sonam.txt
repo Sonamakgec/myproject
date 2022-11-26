@@ -1,2 +1,0 @@
-hello ,welcome to my text file
-here we are learning about git commands 
